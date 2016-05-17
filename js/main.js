@@ -58,7 +58,7 @@ require(['app'], function() {
      * instead of "https://revel.revelsystems.com/weborder/?skin=retail&establishment=9&dev=true"
      */
     app.instances = {
-        "https://rde.revelup.com": {
+        "https://kibo.revelup.com": {
             skin: skins['DIRECTORY'],
             brand: '1',
             stanford: 'true',
